@@ -14,3 +14,5 @@
 
 ![Image alt](https://github.com/AhEhIOhYou/1c/blob/main/lab6/screenshots/4.png)
 ![Image alt](https://github.com/AhEhIOhYou/1c/blob/main/lab6/screenshots/5.png)
+
+## В ЛЕКЦИИ НЕТ НАСТРОЙКИ СООТВЕТСТВИЯ, Я, ЧЕСТНО ГОВОРЯ, ПОНЯТИЯ НЕ ИМЕЮ КАК ЕЁ ПРАВИЛЬНО СДЕЛАТЬ, ТАК ЧТО УТОЧНЮ НА ЛЕКЦИИ В ПЯТНИЦУ
